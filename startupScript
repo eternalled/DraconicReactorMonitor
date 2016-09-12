@@ -1,0 +1,6 @@
+while true do
+    print("Starting...")
+    shell.run("SDRC")
+   
+    sleep(2)
+end
