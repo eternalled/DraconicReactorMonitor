@@ -1,4 +1,5 @@
 -- modifiable variables
+-- EternalLED version 1.0 - Last Modified 9/15/2016
 local reactorSide = "back"
 local fluxgateSide = "right"
 
