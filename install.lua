@@ -31,6 +31,6 @@ file2.close()
 drmp = http.get(drmpURL)
 drmpFile = drmp.readAll()
  
-file3 = fs.open("DRMP", "w")
+file3 = fs.open("drmp", "w")
 file3.write(drmpFile)
 file3.close()
