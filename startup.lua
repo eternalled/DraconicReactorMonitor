@@ -1,6 +1,6 @@
 while true do
     print("Starting...")
-    shell.run("drmp")
+    shell.run("DRMP")
    
     sleep(2)
 end
